@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, 3d Printing and Warhammer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me - beam me a message 
+- 📫 How to reach me - beam me a message over Discord: scarytoaster1809#1149
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have some experience in python
 
