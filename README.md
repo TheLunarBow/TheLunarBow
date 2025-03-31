@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheLunarBow
 - 👀 I’m interested in Coding, 3d Printing and Warhammer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, C# and G-code
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - beam me a message over Discord: scarytoaster1809#1149
 - 😄 Pronouns: He/Him
